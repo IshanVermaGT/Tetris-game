@@ -8,7 +8,7 @@ Built from scratch using **HTML, CSS, and JavaScript**.
 ---
 
 ## 🚀 Live Demo
-🔗 [Play Now](https://Chetu002coder.github.io/Tetris-game)  
+🔗 [Play Now](https://chetu002coder.github.io/Tetris-game/)  
 
 ---
 
