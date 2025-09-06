@@ -1,121 +1,44 @@
-# 🎮 Tetris Game
+# 🎮 Retro Tetris
 
-A classic Tetris game with vintage CRT styling, built with HTML, CSS, and JavaScript.
-
-![Game Preview](images/game-preview1.png)
-
-## 🎯 Play Online
-
-[Play the game here](https://Chetu002coder.github.io/Tetris-game)
-
-## 🎮 How to Play
-
-Clear lines by filling them with falling pieces. The game speeds up as you progress!
-
-### Controls
-- **Arrow Keys**: Move and rotate pieces
-- **Space/Enter**: Hard drop
-- **P**: Pause game
-
-## 📸 Screenshots
-
-![Game Preview 1](images/game-preview1.png)
-![Game Preview 2](images/game-preview2.png)
-
-## 🚀 Run Locally
-
-1. Download the repository
-2. Open `tetris.html` in your browser
-3. Start playing!
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
->>>>>>> b69ab2f (Update README with game preview images and simplified content)
-
----
-
-**Enjoy the game! 🕹️**
-=======
-# 🎮 Tetris Game
-
-A classic Tetris game with vintage CRT styling, built with HTML, CSS, and JavaScript.
+A modern twist on the timeless **Tetris** game with a vintage CRT vibe.  
+Built from scratch using **HTML, CSS, and JavaScript**.  
 
 ![Game Preview](images/game-preview1.png)
 
-## 🎯 Play Online
+---
 
-[Play the game here](https://Chetu002coder.github.io/Tetris-game)
-
-## 🎮 How to Play
-
-Clear lines by filling them with falling pieces. The game speeds up as you progress!
-
-### Controls
-- **Arrow Keys**: Move and rotate pieces
-- **Space/Enter**: Hard drop
-- **P**: Pause game
-
-## 📸 Screenshots
-
-![Game Preview 1](images/game-preview1.png)
-![Game Preview 2](images/game-preview2.png)
-
-## 🚀 Run Locally
-
-1. Download the repository
-2. Open `tetris.html` in your browser
-3. Start playing!
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
+## 🚀 Live Demo
+🔗 [Play Now](https://Chetu002coder.github.io/Tetris-game)  
 
 ---
 
-**Enjoy the game! 🕹️**
-=======
-# 🎮 Tetris Game
+## 🎯 Gameplay
+Stack falling blocks to complete rows.  
+Each cleared row = points ➕ faster speed!  
+Can you beat your high score? 🏆  
 
-A classic Tetris game with vintage CRT styling, built with HTML, CSS, and JavaScript.
-
-![Game Preview](images/game-preview1.png)
-
-## 🎯 Play Online
-
-[Play the game here](https://Chetu002coder.github.io/Tetris-game)
-
-## 🎮 How to Play
-
-Clear lines by filling them with falling pieces. The game speeds up as you progress!
-
-### Controls
-- **Arrow Keys**: Move and rotate pieces
-- **Space/Enter**: Hard drop
-- **P**: Pause game
-
-## 📸 Screenshots
-
-![Game Preview 1](images/game-preview1.png)
-![Game Preview 2](images/game-preview2.png)
-
-## 🚀 Run Locally
-
-1. Download the repository
-2. Open `tetris.html` in your browser
-3. Start playing!
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript
->>>>>>> b69ab2f (Update README with game preview images and simplified content)
+### 🎮 Controls
+| Key            | Action              |
+|----------------|---------------------|
+| ⬅️ / ➡️        | Move left / right   |
+| ⬆️             | Rotate piece        |
+| ⬇️             | Soft drop           |
+| ⏎ / Spacebar   | Hard drop           |
+| P              | Pause / Resume      |
 
 ---
 
-**Enjoy the game! 🕹️**
+## 📸 Screenshots
+<p align="center">
+  <img src="images/game-preview1.png" width="400" />
+  <img src="images/game-preview2.png" width="400" />
+</p>
+
+---
+
+## 🛠️ Installation
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/Chetu002coder/Tetris-game.git
+cd Tetris-game
