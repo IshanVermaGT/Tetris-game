@@ -20,10 +20,10 @@ Can you beat your high score? 🏆
 ### 🎮 Controls
 | Key            | Action              |
 |----------------|---------------------|
-| ⬅️ / ➡️        | Move left / right   |
+| ⬅️ / ➡️       | Move left / right   |
 | ⬆️             | Rotate piece        |
 | ⬇️             | Soft drop           |
-| ⏎ / Spacebar   | Hard drop           |
+| ⏎              | Hard drop           |
 | P              | Pause / Resume      |
 
 ---
