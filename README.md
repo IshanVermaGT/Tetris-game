@@ -1,29 +1,38 @@
 # 🎮 Retro Tetris
 
-A modern twist on the timeless **Tetris** game with a vintage CRT vibe.  
-Built from scratch using **HTML, CSS, and JavaScript**.  
+A **retro-inspired Tetris clone** with vintage CRT vibes.  
+Built completely from scratch using **HTML, CSS, and JavaScript**.  
 
-![Game Preview](images/game-preview1.png)
+![Stars](https://img.shields.io/github/stars/Chetu002coder/Tetris-game?style=social)
+![Forks](https://img.shields.io/github/forks/Chetu002coder/Tetris-game?style=social)
+![Issues](https://img.shields.io/github/issues/Chetu002coder/Tetris-game)
+![License](https://img.shields.io/github/license/Chetu002coder/Tetris-game)
 
 ---
 
 ## 🚀 Live Demo
-🔗 [Play Now](https://chetu002coder.github.io/Tetris-game/)  
+🔗 **[Play Now](https://chetu002coder.github.io/Tetris-game/)**  
+
+> Works directly in your browser — no downloads needed!
 
 ---
 
-## 🎯 Gameplay
-Stack falling blocks to complete rows.  
-Each cleared row = points ➕ faster speed!  
-Can you beat your high score? 🏆  
+## 🎯 Features
+✅ Classic **Tetris gameplay** (rotate, move, drop blocks)  
+✅ **Score system** — earn points for every cleared line  
+✅ Increasing **speed & difficulty** as you progress  
+✅ Retro **CRT-inspired design** for a vintage arcade feel  
+✅ Playable on any modern web browser  
 
-### 🎮 Controls
+---
+
+## 🎮 Controls
 | Key            | Action              |
 |----------------|---------------------|
 | ⬅️ / ➡️       | Move left / right   |
 | ⬆️             | Rotate piece        |
 | ⬇️             | Soft drop           |
-| ⏎              | Hard drop           |
+| ⏎ (Enter)      | Hard drop           |
 | P              | Pause / Resume      |
 
 ---
