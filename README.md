@@ -10,6 +10,11 @@ Built completely from scratch using **HTML, CSS, and JavaScript**.
 
 ---
 
+<!-- 🎥 Gameplay GIF -->
+![Tetris Gameplay](https://upload.wikimedia.org/wikipedia/commons/3/39/Tetris_basic_game.gif)
+
+---
+
 ## 🚀 Live Demo
 🔗 **[Play Now](https://chetu002coder.github.io/Tetris-game/)**  
 
