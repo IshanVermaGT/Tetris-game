@@ -42,7 +42,7 @@ Built completely from scratch using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 📸 Screenshots
+## 📸 Here is the samples
 <p align="center">
   <img src="images/game-preview1.png" width="400" />
   <img src="images/game-preview2.png" width="400" />
