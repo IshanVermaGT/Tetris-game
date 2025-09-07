@@ -11,7 +11,7 @@ Built completely from scratch using **HTML, CSS, and JavaScript**.
 ---
 
 <!-- 🎥 Gameplay GIF -->
-![Tetris Gameplay](https://upload.wikimedia.org/wikipedia/commons/3/39/Tetris_basic_game.gif)
+![Tetris Gameplay](https://media.newyorker.com/photos/605e365ba5291a129cb459c2/16:9/w_1600,h_900,c_limit/Sweet-ClassicTetris-smaller.gif)
 
 ---
 
