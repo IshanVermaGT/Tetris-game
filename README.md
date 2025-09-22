@@ -15,10 +15,6 @@ Built completely from scratch using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🚀 Live Demo
-🔗 **[Play Now](https://chetu002coder.github.io/Tetris-game/)**  
-
-> Works directly in your browser — no downloads needed!
 
 ---
 
